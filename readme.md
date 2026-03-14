@@ -11,7 +11,7 @@ The project consists of three repositories:
 
 ### Current Repository: ML
 
-The current repository is the one related to preapring the data and training the models.
+The current repository is the one related to preparing the data and training the models.
 
 This repository contains:
 - Jupyter notebooks
