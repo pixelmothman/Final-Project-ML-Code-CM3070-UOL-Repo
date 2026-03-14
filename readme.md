@@ -1,4 +1,4 @@
-# Project: Ml Currency Portoflio 
+# Project: ML Currency Portfolio - Computer Science Final Project
 
 Based on the financial advisor bot template (CM3020 Artificial Intelligence, Project Idea 2: Financial Advisor Bot).
 
